@@ -1,0 +1,9 @@
+numpy
+scipy
+scikit-image
+pillow
+pandas
+h5py
+opencv
+tensorflow >= 1.10
+keras >= 2.2.4
